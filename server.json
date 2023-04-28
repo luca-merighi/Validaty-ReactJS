@@ -1,0 +1,70 @@
+{
+  "productsTable": [
+    {
+      "id": 1,
+      "date": "28/04"
+    },
+    {
+      "id": 2,
+      "date": "29/04"
+    },
+    {
+      "id": 3,
+      "date": "05/05"
+    },
+    {
+      "id": 4,
+      "date": "10/05"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Doritos Queijo Nacho 140g",
+      "sold": true,
+      "code": "289365",
+      "quantity": 13,
+      "date": "28/04"
+    },
+    {
+      "id": 2,
+      "name": "Ruffles Batata Original 87g",
+      "sold": false,
+      "code": "596528",
+      "quantity": 10,
+      "date": "28/04"
+    },
+    {
+      "id": 3,
+      "name": "Coca-cola 600ml",
+      "sold": false,
+      "code": "345812",
+      "quantity": 20,
+      "date": "29/04"
+    },
+    {
+      "id": 5,
+      "sold": false,
+      "name": "Pepsi",
+      "code": "121212",
+      "quantity": "12",
+      "date": "05/05"
+    },
+    {
+      "id": 6,
+      "sold": false,
+      "name": "Monster Energy Drink Branco",
+      "code": "123123",
+      "quantity": "12",
+      "date": "10/05"
+    },
+    {
+      "id": 7,
+      "sold": false,
+      "name": "Monster Energy Drink Original",
+      "code": "121212",
+      "quantity": "9",
+      "date": "10/05"
+    }
+  ]
+}
